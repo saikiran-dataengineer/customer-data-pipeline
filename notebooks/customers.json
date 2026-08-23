@@ -1,0 +1,34 @@
+[
+  {
+    "customer_id": "C001",
+    "name": "John",
+    "address": {
+      "city": "Bangalore",
+      "state": "KA"
+    },
+    "orders": [
+      {
+        "order_id": "O101",
+        "amount": 500
+      },
+      {
+        "order_id": "O102",
+        "amount": 700
+      }
+    ]
+  },
+  {
+    "customer_id": "C002",
+    "name": "Sarah",
+    "address": {
+      "city": "Mumbai",
+      "state": "MH"
+    },
+    "orders": [
+      {
+        "order_id": "O103",
+        "amount": 300
+      }
+    ]
+  }
+]
